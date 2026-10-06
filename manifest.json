@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Fact Or Fake",
+  "name": "FactorCake",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "host_permissions": ["https://royal-backlit-duct.ngrok-free.dev/*"],
   "action": {
-    "default_title": "Open Fact Or Fake",
+    "default_title": "Open FactorCake",
     "default_popup": "index.html"
   },
   "background": {
