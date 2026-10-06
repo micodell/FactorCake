@@ -2,7 +2,7 @@
 made by: Michelle - C14240169@john.petra.ac.id
 
 ## Konsep Aplikasi
-FactOrFake is a Chrome extension that detects a text-based or video-based input of an information that later processed by an LLM (using Qwen/Qwen2.5-7B-Instruct) to predict whether the information is lean towards fake or fact news by giving an output of fact and hoax percantage.
+FactorCake (Fact Or Fake Chrome Extension) is a Chrome extension that detects a text-based or video-based input of an information that later processed by an LLM (using Qwen/Qwen2.5-7B-Instruct) to predict whether the information is lean towards fake or fact news by giving an output of fact and hoax percantage.
 
 
 ## Tech Stack
@@ -16,6 +16,7 @@ FactOrFake is a Chrome extension that detects a text-based or video-based input 
 
 ## How is it work (Diagram Mermaid Flow):
 ![](./assets/diagram.png)
+Tools: [gitdiagram.com](https://gitdiagram.com/)
 
 
 
